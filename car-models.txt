@@ -1,0 +1,3 @@
+T=ModelX
+F=F150
+D=Ram
